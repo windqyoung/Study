@@ -12,4 +12,4 @@ function named_call()
 ```
 
 
-![百度图标](http://su.bdimg.com/static/superplus/img/logo_white_ee663702.png 百度的图标)
+![百度图标](http://su.bdimg.com/static/superplus/img/logo_white_ee663702.png "百度的图标")
