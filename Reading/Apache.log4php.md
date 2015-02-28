@@ -9,3 +9,9 @@
 * yii的日志系统
 
 很相似的结构
+
+
+
+***在这儿记录一下手动添加日志对象时的注意***  
+***一定要执行avtiveOptions()函数***  
+要不然, appender, filter, pattern等, 都不生效.
