@@ -13,7 +13,7 @@ Java阅读记录
 
 * [Java官方教程测试](http://docs.oracle.com/javase/tutorial/extra/certification/index.html)  
 
-第一部分自测通过
+[第一部分自测通过](http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html)
 
 
 ******************************
