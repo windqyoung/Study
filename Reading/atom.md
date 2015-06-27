@@ -8,7 +8,7 @@ atom编辑器
 
 config
 =====================
-
+```
 "*":
   "exception-reporting":
     userId: "2d59eb64-8971-3550-ee30-874a9f534ce2"
@@ -46,12 +46,12 @@ config
     preferredFormat: "HEX"
 
 
-
+```
 
 
 keymap
 =============
-
+```
 'atom-workspace atom-text-editor:not([mini])':
   'alt-down': 'editor:move-line-down'
   'alt-up': 'editor:move-line-up'
@@ -94,3 +94,4 @@ keymap
 
 'atom-workspace, atom-workspace atom-text-editor':
   'ctrl-m k': 'markdown-preview:toggle'
+```
