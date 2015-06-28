@@ -93,5 +93,5 @@ keymap
 
 
 'atom-workspace, atom-workspace atom-text-editor':
-  'ctrl-m k': 'markdown-preview:toggle'
+  'ctrl-m ctrl-k': 'markdown-preview:toggle'
 ```
